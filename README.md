@@ -309,7 +309,6 @@ This project is licensed under the **GPL v3 License** - see the [LICENSE](LICENS
 - [HSTS Specification](https://tools.ietf.org/html/rfc6797)
 
 ### **MetricPoints Support**
-- **Documentation**: [docs.metricpoints.com](https://docs.metricpoints.com)
 - **Email**: support@metricpoints.com
 - **Website**: [metricpoints.com](https://metricpoints.com)
 
