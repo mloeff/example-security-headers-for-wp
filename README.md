@@ -321,13 +321,9 @@ This project is licensed under the **GPL v3 License** - see the [LICENSE](LICENS
 
 ---
 
-**Built with ❤️ for the WordPress Community**
-
-*Secure your WordPress site today with professional-grade security headers.*
-
 ## 📋 Changelog
 
-### **Version 1.0.0** - Initial Release
+### **Version 2025.09.09.1** - Initial Release
 - Complete CSP implementation with nonce support
 - HSTS, Permissions Policy, and Referrer Policy headers
 - WordPress-specific optimizations
